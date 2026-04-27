@@ -1,0 +1,35 @@
+testdata/good/i18n_tr.feature.ast.ndjson
+  61d711ba7b058de8 1
+testdata/good/i18n_tr.feature
+  61d711ba7b058de8 1-193
+testdata/good/i18n_tr.feature.tokens
+  61d711ba7b058de8 1-194
+testdata/good/i18n_tr.feature.source.ndjson
+  61d711ba7b058de8 1
+gherkin-languages.json
+  61d711ba7b058de8 3326-3329,3332-3336,3341-3345,3348-3349,3352-3357,3361-3368,3373-3375,3379-3380,3383-3384,3388-3391,3395-3398
+python/src/gherkin/gherkin-languages.json
+  61d711ba7b058de8 3326-3329,3332-3336,3341-3345,3348-3349,3352-3357,3361-3368,3373-3375,3379-3380,3383-3384,3388-3391,3395-3398
+testdata/good/i18n_tr.feature.pickles.ndjson
+  61d711ba7b058de8 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "217b5e15d14986845e4b6265dce0c3f868ed5dcb",
+  "prompts": {
+    "61d711ba7b058de8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa8c3017-2656-463a-b781-7fb94d297df3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 485,
+      "overriden_lines": 0
+    }
+  }
+}
