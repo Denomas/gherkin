@@ -1,0 +1,41 @@
+python/src/gherkin/gherkin-languages.json
+  61d711ba7b058de8 3326-3329,3345-3346,3350-3354,3368-3369
+ruby/lib/gherkin/gherkin-languages.json
+  61d711ba7b058de8 3326-3328,3344-3345,3349-3353,3367-3368
+c/src/dialect.c
+  61d711ba7b058de8 3246-3247,3255-3256,3258-3259,3264-3265
+testdata/good/i18n_tr.feature
+  61d711ba7b058de8 127,134,157,162-174
+elixir/priv/gherkin_languages.json
+  61d711ba7b058de8 3326-3328,3344-3345,3349-3353,3367-3368
+dart/assets/gherkin-languages.json
+  61d711ba7b058de8 3326-3328,3344-3345,3349-3353,3367-3368
+gherkin-languages.json
+  61d711ba7b058de8 3326-3329,3345-3346,3350-3354,3368-3369
+javascript/src/gherkin-languages.json
+  61d711ba7b058de8 3326-3328,3344-3345,3349-3353,3367-3368
+php/resources/gherkin-languages.json
+  61d711ba7b058de8 3326-3328,3344-3345,3349-3353,3367-3368
+go/dialects_builtin.go
+  61d711ba7b058de8 4874-4877,4881,4900,4927-4928,4966-4968
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "dc16b300b2b826ddfc88fc319313cd8dd9267797",
+  "prompts": {
+    "61d711ba7b058de8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa8c3017-2656-463a-b781-7fb94d297df3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas",
+      "messages": [],
+      "total_additions": 131,
+      "total_deletions": 47,
+      "accepted_lines": 124,
+      "overriden_lines": 0
+    }
+  }
+}
