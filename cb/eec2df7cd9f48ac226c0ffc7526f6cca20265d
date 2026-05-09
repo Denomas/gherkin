@@ -1,0 +1,19 @@
+cpp/src/lib/gherkin/cucumber/gherkin/dialect.cpp
+  s_9c0afcf0c3c9b9::t_8a8291b948e75f 18,738,959,1116-1126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "cbeec2df7cd9f48ac226c0ffc7526f6cca20265d",
+  "prompts": {},
+  "sessions": {
+    "s_9c0afcf0c3c9b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c3580b7-f0ba-43ac-aa53-cf5393dc40c5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>"
+    }
+  }
+}
